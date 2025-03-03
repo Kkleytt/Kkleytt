@@ -54,6 +54,6 @@ I am a Junior Backend Developer from Russia.
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kkleytt&show_icons=true&theme=swift&card_width=300"/>
   </a>
   <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkleytt&layout=compact&langs_count=3&theme=graywhite&card_width=300" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkleytt&layout=compact&langs_count=3&theme=graywhite&card_width=320" />
   </a>
 </p>
