@@ -1,4 +1,4 @@
-![MasterHead](./banner.png)
+![MasterHead](./header.png)
 ---
 
 <div id="header" align="center">
