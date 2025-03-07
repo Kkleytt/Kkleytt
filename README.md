@@ -1,6 +1,3 @@
-![MasterHead](./banner.png)
----
-
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl2N3k3emhlaXpvMGRyeDdkeDAweHloaWx6NDZrdm5oZTFlMWk1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="500"/>
   <div id="badges">
@@ -26,7 +23,8 @@
 <h1 align="center">:one::zero::one:, the user :wave:</h1>
 
 ## :man_technologist: About Me:
-I am a Junior Backend Developer from Russia.
+Hi, I'm Fedor, a junior Python server developer with no experience. 
+I am currently actively studying for the position of ML engineer.
 - :telescope: I’m working as a Backend Developer specializing in Python.
 - :seedling: Currently learning Machine Learning.
 - :zap: In my free time, I explore new programming languages and frameworks.
