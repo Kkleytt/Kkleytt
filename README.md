@@ -68,11 +68,28 @@ I am currently actively studying for the position of ML engineer.
 <!-- Репозиторий для вывода статистики по GitHub - https://github.com/anuraghazra/github-readme-stats -->
 ---
 <h2 align="left">:fire: My stats in GitHub</h2>
-<p align="center">
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kkleytt&show_icons=true&theme=swift&card_width=300"/>
-  </a>
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkleytt&layout=compact&langs_count=3&theme=graywhite&card_width=310" />
-  </a>
-</p>
+<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
+  <tr style="border: none;">
+    <td style="padding: 0; border: none;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kkleytt&show_icons=true&theme=swift&card_width=510"/>
+    </td>
+    <td rowspan="2" style="padding: 0; border: none;">
+      <img height="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkleytt&layout=donut-vertical&langs_count=4&theme=graywhite&card_width=310"/>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="padding: 0; border: none;">
+      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=kkleytt&theme=graywhite"/>
+    </td>
+  </tr>
+
+  <tr style="border: none;">
+    <td style="padding: 0; border: none;">
+      <img width="510" src="https://leetcard.jacoblin.cool/Kkleytt?theme=light"/>
+    </td>
+    <td style="padding: 0; border: none;">
+      <img width="310" height="200" src="https://www.codewars.com/users/Kkleytt/badges/large"/>
+    </td>
+  </tr>
+</table>
