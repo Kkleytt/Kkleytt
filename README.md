@@ -86,7 +86,7 @@ I am currently actively studying for the position of ML engineer.
 
   <tr style="border: none;">
     <td style="padding: 0; border: none;">
-      <img width="510" src="https://leetcard.jacoblin.cool/Kkleytt?theme=light"/>
+      <img width="510" src="https://leetcard.jacoblin.cool/kkleytt?theme=light"/>
     </td>
     <td style="padding: 0; border: none;">
       <img width="310" height="200" src="https://www.codewars.com/users/Kkleytt/badges/large"/>
