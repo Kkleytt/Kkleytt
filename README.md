@@ -80,19 +80,8 @@ I am currently actively studying for the position of ML engineer.
 
   <tr style="border: none;">
     <td style="padding: 0; border: none;">
-      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=kkleytt&theme=graywhite"/>
-    </td>
-  </tr>
-
-  <tr style="border: none;">
-    <td style="padding: 0; border: none;">
       <a href="https://leetcode.com/u/Kkleytt/">
         <img width="510" src="https://leetcard.jacoblin.cool/kkleytt?theme=light"/>
-      </a>
-    </td>
-    <td style="padding: 0; border: none;">
-      <a href="https://www.codewars.com/users/Kkleytt">
-        <img width="310" height="200" src="https://www.codewars.com/users/Kkleytt/badges/large"/>
       </a>
     </td>
   </tr>
