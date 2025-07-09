@@ -40,7 +40,6 @@ I’m passionate about building robust server-side applications using Python, an
 - 🌐 Understanding microservices architecture and deployment tools (Docker, etc.)
 
 
-
 <!-- Репозиторий с бейджами и инструкцие по использованию - https://github.com/Ileriayo/markdown-badges -->
 ## :hammer_and_wrench: Languages and Tools :
 #### Mastered:
